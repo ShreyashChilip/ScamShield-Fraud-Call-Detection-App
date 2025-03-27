@@ -80,7 +80,7 @@ ScamShield-Fraud-Call-Detection-App/
 ## Usage
 
 - **Detecting Fraudulent Calls:** The app will notify users when an incoming call is suspected to be fraudulent.
-- **Provides speaker diarization: ** The app provides analysis for every speaker in the phone call, and percent based prediction and further suggestion for each speaker.
+- **Provides speaker diarization:** The app provides analysis for every speaker in the phone call, and percent based prediction and further suggestion for each speaker.
 
 ## Dependencies
 
